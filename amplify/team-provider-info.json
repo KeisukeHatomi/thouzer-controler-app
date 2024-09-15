@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thouzercontrolerapp-dev-285e4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::478054654864:role/amplify-thouzercontrolerapp-dev-285e4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::478054654864:role/amplify-thouzercontrolerapp-dev-285e4-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-thouzercontrolerapp-dev-285e4-deployment",
+      "UnauthRoleName": "amplify-thouzercontrolerapp-dev-285e4-unauthRole",
+      "StackName": "amplify-thouzercontrolerapp-dev-285e4",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:478054654864:stack/amplify-thouzercontrolerapp-dev-285e4/6fad5570-733b-11ef-97e3-06b4e44248df",
+      "AmplifyAppId": "d1q304gdzaftvb"
+    },
+    "categories": {
+      "auth": {
+        "thouzercontrolerapp54d8d583": {}
+      }
+    }
+  }
+}
